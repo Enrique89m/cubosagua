@@ -6,5 +6,8 @@ Entorns de Desenrotllament
 
 ## Programa del joc dels poals
 
-Programa exemple per activitat de Github amb Python
+## V2 --- 16/05/2024 / 00:52 A.M
 
+---
+
+> Se añade una nueva opción (E) para vaciar todos los cubos de una.
